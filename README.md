@@ -11,7 +11,8 @@ A simple BMI Calculator built with Python.
 - Python
 
 ## App Preview
-![BMI-Calculator](IMG-20260214-WA0003.jpg)
+![BMI-Calculator](Screenshot1.png)
+![BMI-Calculator](Screenshot2.png)
 
 ## Author
 Egbeobauwaye Nagbons
